@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+class demo
+{
+public static void main(String args[])
+{
+boolean hungry = true;
+boolean icecrean = true;
+{
+if(hungry &&)
+{
+System.out.print("eat");
+}
